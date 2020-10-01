@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: `https://zubayr.netlify.app`,
+  siteUrl: `https://zubayrali.in`,
   githubApiToken: process.env.API_TOKEN,
 }
