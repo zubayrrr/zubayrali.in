@@ -27,6 +27,7 @@ body {
 @media (max-width: 540px) {
   .header-container {
     flex-wrap: wrap;
+    justify-content: center;
   }
   #header-nav-first {
     margin-left: 0em;
@@ -334,5 +335,11 @@ article .tag-container a {
   }
   p {
     padding: 10px;
+  }
+  .header-title {
+    text-align: center;
+  }
+  .nav-container {
+    justify-content: center;
   }
 }

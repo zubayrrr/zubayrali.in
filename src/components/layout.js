@@ -90,9 +90,9 @@ class Layout extends Component {
         </div>
         <hr className="contour" style={{ margin: "0" }} />
         <main>{children}</main>
-        <footer className="footer-copyright">
-          <hr className="contour" style={{ marginBottom: "20px" }} />©{" "}
-          {new Date().getFullYear()} {title}, Built with
+        <hr className="contour" style={{ marginBottom: "20px" }} />
+        <footer className="footer-copyright" style={{ paddingBottom: "20px" }}>
+          © {new Date().getFullYear()} {title}, Built with
           {` `}
           <a className="footer-gatsby" href="https://www.gatsbyjs.org">
             Gatsby
