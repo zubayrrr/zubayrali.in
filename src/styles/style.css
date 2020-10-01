@@ -1,6 +1,10 @@
 @import "vars.css";
 @import "normalize.css";
 
+body {
+  margin: 0 !important;
+}
+
 /* Layout */
 .contour {
   border: 0em;
