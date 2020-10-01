@@ -1,0 +1,17 @@
+{
+  "title": "Zubayr Ali",
+  "siteUrl": "https://zubayr.netlify.app/",
+  "author": "zubayr ali",
+  "description": "A simple personal blog and portfolio, built on JAMStack using Gatsbyjs, Netlify, Github API.",
+  "github_siteUrl": "config.siteUrl",
+  "github_title": "config.title",
+  "github_description": "config.description",
+  "github_author": " config.author",
+  "home": {
+    "title": "Hi! I'm Zubayr Ali 👋",
+    "description": "A 21 year old Front-end and Blockchain developer. 🔥 <br /> I build fast Reactjs Applications and DApps on Ethereum Blockchain. 🚀",
+    "github_userurl": "https://github.com/zubayrrr/",
+    "linkedin_userurl": "https://www.linkedin.com/in/zubayr-ali-5257511a8/",
+    "spotify_userurl": "https://open.spotify.com/user/zubayrrr?si=n0a1p5FNR-uhyY-hr1oxeA"
+  }
+}

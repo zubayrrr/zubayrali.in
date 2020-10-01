@@ -14,7 +14,18 @@ const SearchPage = ({ data }) => {
   return (
     <Layout title={siteTitle}>
       <SEO title="Search" />
-      <Search searchIndex={searchIndex}/>
+      {/* <div
+        style={{
+          height: "90vh",
+          overflow: "hidden",
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          marginTop: "-50px",
+        }}
+      > */}
+      <Search searchIndex={searchIndex} />
+      {/* </div> */}
     </Layout>
   )
 }
@@ -29,7 +40,7 @@ export const pageQuery = graphql`
       }
     }
     siteSearchIndex {
-        index
+      index
     }
   }
 `

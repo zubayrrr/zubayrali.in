@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap");
 
-:root{
+:root {
   overflow-y: scroll;
 
   /* Fonts */
-  --font-title: 'Playfair Display', serif;
-  --font-sans-serif: 'Open Sans', sans-serif;
+  --font-title: "Playfair Display", serif;
+  --font-sans-serif: "Open Sans", sans-serif;
   --font-serif: serif;
-  --font-mono: 'IBM Plex Mono', monospace;
+  --font-mono: "IBM Plex Mono", monospace;
   --font-light: 300;
   --font-normal: 400;
   --font-bold: 700;
@@ -17,6 +17,8 @@
 }
 
 body.light {
+  --color-white: rgba(0, 0, 0, 0.8);
+  --color-black: rgba(255, 255, 255, 0.9);
   --color-bg: rgba(255, 255, 255, 0.9);
   --color-font: rgba(0, 0, 0, 0.8);
   --color-postcard: rgba(0, 0, 0, 0.1);
@@ -39,6 +41,8 @@ body.light {
 }
 
 body.dark {
+  --color-white: rgba(255, 255, 255, 0.9);
+  --color-black: rgba(0, 0, 0, 0.8);
   --color-bg: rgba(0, 0, 0, 0.9);
   --color-font: rgba(255, 255, 255, 0.8);
   --color-postcard: rgba(255, 255, 255, 0.1);

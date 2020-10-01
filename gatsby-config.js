@@ -1,16 +1,25 @@
-const remark = require("remark");
+const remark = require("remark")
+require("dotenv").config()
+
+const config = require("./config/site")
 
 module.exports = {
-  siteMetadata: {
-    title: `Vapor`,
-    author: `Vaporwavy`,
-    description: `A blog for minimalist`,
-    siteUrl: `https://vapor.aesthetic.codes/`,
-    social: {
-      twitter: ``,
-    },
-  },
+  siteMetadata: require("./site-meta-data.json"),
   plugins: [
+    {
+      resolve: `gatsby-source-graphql`,
+      options: {
+        token: config.githubApiToken,
+        graphQLQuery: config.githubApiQuery,
+        variables: config.githubApiVariables,
+        typeName: "GitHub",
+        fieldName: "githubData",
+        url: "https://api.github.com/graphql",
+        headers: {
+          Authorization: `Bearer ${config.githubApiToken}`,
+        },
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -82,12 +91,15 @@ module.exports = {
             slug: node => node.fields.slug,
             body: node => String(remark().processSync(node.rawMarkdownBody)),
             excerpt: node => {
-              const text = remark().processSync(node.rawMarkdownBody);
-              const excerptLength = 139; // Hard coded excerpt length
-              return node.rawMarkdownBody && String(text).substring(0, excerptLength) + "...";
+              const text = remark().processSync(node.rawMarkdownBody)
+              const excerptLength = 139 // Hard coded excerpt length
+              return (
+                node.rawMarkdownBody &&
+                String(text).substring(0, excerptLength) + "..."
+              )
             },
             date: node => {
-              const months= [
+              const months = [
                 "January",
                 "February",
                 "March",
@@ -99,15 +111,21 @@ module.exports = {
                 "September",
                 "October",
                 "November",
-                "December"
-              ];
-              const date = new Date(node.frontmatter.date);
-              return months[date.getUTCMonth(0)] + " " + date.getUTCDate(0) + ", " + date.getUTCFullYear(0);
+                "December",
+              ]
+              const date = new Date(node.frontmatter.date)
+              return (
+                months[date.getUTCMonth(0)] +
+                " " +
+                date.getUTCDate(0) +
+                ", " +
+                date.getUTCFullYear(0)
+              )
             },
           },
         },
       },
     },
-    'gatsby-plugin-dark-mode',
+    "gatsby-plugin-dark-mode",
   ],
 }
