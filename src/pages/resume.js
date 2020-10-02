@@ -13,12 +13,14 @@ import {
 } from "@fortawesome/free-brands-svg-icons"
 
 import { faLevelDownAlt } from "@fortawesome/free-solid-svg-icons"
+import SEO from "../components/seo"
 
 const Resume = ({ data }) => {
   const { name, avatarUrl, isHireable } = data.githubData.viewer
 
   return (
     <Layout title="Zubayr Ali">
+      <SEO title="Resume" />
       <Helmet>
         <title>Resume</title>
       </Helmet>

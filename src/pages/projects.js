@@ -7,12 +7,14 @@ import Layout from "../components/layout"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faLevelDownAlt } from "@fortawesome/free-solid-svg-icons"
+import SEO from "../components/seo"
 
 const Projects = ({ data }) => {
   const { repositories } = data.githubData.viewer
 
   return (
     <Layout title="Zubayr Ali">
+      <SEO title="Projects" />
       <Helmet>
         <title>Projects</title>
       </Helmet>
