@@ -72,7 +72,7 @@ module.exports = {
         short_name: `Zubayr Ali`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `##000000cc`,
+        theme_color: `#191919`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
