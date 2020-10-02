@@ -68,13 +68,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `zubayrali.in`,
-        short_name: `zubayrali.in`,
+        name: `Zubayr Ali`,
+        short_name: `Zubayr Ali`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#111111`,
+        theme_color: `##000000cc`,
         display: `minimal-ui`,
-        icon: `content/assets/favicon-32x32.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-offline`,
