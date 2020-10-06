@@ -82,7 +82,7 @@ Here's a list of my top 5 favourite electronic music producers in **no particula
   Burial is to be experienced and shared with your loved ones.
 
   Favourite tracks:
-  `Uncut Gems, Music For Steamed Rocks, Chrome Country, Replica, Boring Angel.`  
-   <a href="https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK" target="_blank">Link to his works</a>
+  `Archangel, Claustro, State Forest, Rival Dealer, Stolen Dog.`  
+   <a href="https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF?si=d_Nhwq_MRCShK6wVki2acw" target="_blank">Link to his works</a>
 
 Might add more artists to this later, Thank you for reading, have a good day.
