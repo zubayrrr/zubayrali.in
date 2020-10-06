@@ -126,14 +126,20 @@ body {
 .banner {
   height: 120px;
   background-color: var(--color-white);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23aeaeb2' fill-opacity='0.4'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 /* Postcard*/
 
 .post-card-readmore span {
   text-decoration: underline;
 }
-
+.post {
+  width: 75%;
+}
+a {
+  text-decoration: underline;
+  color: var(--color-white);
+}
 .link {
   text-decoration: underline;
   color: var(--color-white);
@@ -317,9 +323,12 @@ article .tag-container a {
   color: inherit;
   font-size: 0.875em;
 }
-
+.resume {
+  padding: 0 20px;
+  align-self: center;
+}
 .resume-2 {
-  padding: 20px;
+  padding: 0px 0px 20px 0px;
 }
 
 @media (max-width: 576px) {
@@ -333,13 +342,36 @@ article .tag-container a {
   .resume-2 {
     padding: 20px 10px 20px 10px !important;
   }
-  p {
-    padding: 10px;
+  .resume {
+    padding: 0 0px;
   }
+
   .header-title {
     text-align: center;
   }
   .nav-container {
     justify-content: center;
   }
+  .post {
+    width: 100%;
+  }
+  .resume-banner p {
+    margin: 0px;
+  }
+}
+
+.connections {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.connections li {
+  list-style: none;
+  align-self: center;
+  margin-left: 10px;
+}
+
+.resume-banner p {
+  margin: 1.45rem 0px;
 }

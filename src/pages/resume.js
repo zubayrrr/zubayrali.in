@@ -25,17 +25,16 @@ const Resume = ({ data }) => {
         <title>Resume</title>
       </Helmet>
       <div
-        className="blog-intro  banner"
+        className="blog-intro resume-banner banner"
         style={{
           display: "flex",
           justifyContent: "center",
           flexWrap: "inherit",
           textAlign: "center",
-          margin: "1.45rem 0px",
         }}
       >
         <Avatar img={avatarUrl} />
-        <div className="resume-2">
+        <div className="resume">
           <h2 style={{ border: `none`, marginTop: 0 }}>{name}</h2>
           {isHireable && (
             <h3
@@ -60,7 +59,7 @@ const Resume = ({ data }) => {
           width: "80%",
         }}
       />
-      <div style={{ height: "100vh" }}>
+      <div className="resume-2">
         <h3
           style={{
             textAlign: "center",
@@ -85,8 +84,10 @@ const Resume = ({ data }) => {
           <br />I also read books, workout, try to learn foreign languages and
           make coffee.
         </p>
-        Connections:
-        <ul>
+
+        <ul className="connections">
+          {" "}
+          Connections:
           <li>
             {/* Browse my repositories{"  "} */}
             <a

@@ -6,6 +6,8 @@ const config = require("./config/site")
 module.exports = {
   siteMetadata: require("./site-meta-data.json"),
   plugins: [
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-source-graphql`,
       options: {

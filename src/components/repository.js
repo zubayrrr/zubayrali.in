@@ -86,7 +86,7 @@ const RepositoryFooter = ({ repo }) => {
 }
 
 const RepositoryDescription = ({ repo }) => (
-  <div style={{ width: `75%` }}>
+  <div className="post">
     <p className="repo-desc" style={{ margin: "10px 0" }}>
       {repo.description}
 
