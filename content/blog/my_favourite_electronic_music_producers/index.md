@@ -14,8 +14,8 @@ Here's a list of my top 5 favourite electronic music producers in **no particula
 - Aphex Twin
   <img src="./aphextwin.jpg" />
 
-  Aphex Twin is a moniker of Richard David James is a British electronic music producer, his music style includes, techo, ambient, his style has taken infulence from other genres like glitch, experimental, acid house, D&B.  
-   And he has been known for a subgenre called IDM or Intelligent Dance Musis, his signature style of pseudo-transcendent beats and rad electronic soundscapes.
+  Aphex Twin is a moniker of Richard David James is a British electronic music producer, his music style includes, techno, ambient, his style has taken infulence from other genres like glitch, experimental, acid house, D&B.  
+   And he has been known for a subgenre called IDM or Intelligent Dance Music, his signature style of pseudo-transcendent beats and rad electronic soundscapes.
 
   He has worked under other names/monikers such as AFX, Polygon Window and many other.
 
@@ -85,4 +85,5 @@ Here's a list of my top 5 favourite electronic music producers in **no particula
   `Archangel, Claustro, State Forest, Rival Dealer, Stolen Dog.`  
    <a href="https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF?si=d_Nhwq_MRCShK6wVki2acw" target="_blank">Link to his works</a>
 
-Might add more artists to this later, Thank you for reading, have a good day.
+Might add more artists to this list later,  
+Thank you for reading, have a good day.

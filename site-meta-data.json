@@ -1,10 +1,11 @@
 {
-  "title": "zubayrali.in",
+  "title": "Zubayr Ali",
   "siteUrl": "https://zubayrali.in/",
   "author": "Zubayr Ali",
-  "description": "A simple personal blog and portfolio, built on JAMStack using Gatsbyjs, Netlify, Github API.",
+  "description": "zubayrali.in(Zubayr Ali) is a front-end web developer, zubayrali.in is his personal portfolio website as well as his blog site, he writes about music, coding, productivity, stoicism, among other things.",
   "github_siteUrl": "config.siteUrl",
   "github_title": "config.title",
   "github_description": "config.description",
-  "github_author": " config.author"
+  "github_author": " config.author",
+  "keywords": []
 }
