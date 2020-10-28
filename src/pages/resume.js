@@ -31,10 +31,14 @@ const Resume = ({ data }) => {
           justifyContent: "center",
           flexWrap: "inherit",
           textAlign: "center",
+          margin: "1.45rem 0px",
+
         }}
       >
         <Avatar img={avatarUrl} />
-        <div className="resume">
+        <div className="resume" style={{
+          
+        }}>
           <h2 style={{ border: `none`, marginTop: 0 }}>{name}</h2>
           {isHireable && (
             <h3

@@ -49,8 +49,7 @@ const Projects = ({ data }) => {
             </a>
           </h2>
           <p>
-            I've worked on Front-end (React) and a few Blockchain (Solidity)
-            projects among others.
+     I work on JAMstack. Primarily using Gatsby, Netlify, Contentful CMS.
           </p>
         </div>
         <hr
