@@ -49,7 +49,7 @@ const Projects = ({ data }) => {
             </a>
           </h2>
           <p>
-     I work on JAMstack. Primarily using Gatsby, Netlify, Contentful CMS.
+            I work on everything Front-end, I am a ReactJs fanboi like Ben Awad.
           </p>
         </div>
         <hr

@@ -6,7 +6,7 @@ description: "Image source: Lorn - Anvil"
 thumbnail: "./preview.jpg"
 ---
 
-First blog post ever, how exciting!
+First blog post ever, how exciting! (ﾉ ◕ ヮ ◕)ﾉ\*:･ﾟ ✧  
 A lot more interesting things coming up in the future.
 
 Here's a list of my top 5 favourite electronic music producers in **no particular order**.
@@ -86,4 +86,4 @@ Here's a list of my top 5 favourite electronic music producers in **no particula
    <a href="https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF?si=d_Nhwq_MRCShK6wVki2acw" target="_blank">Link to his works</a>
 
 Might add more artists to this list later,  
-Thank you for reading, have a good day.
+Thank you for reading, have a good day. ☆’.･.･:★’.･.･:☆
