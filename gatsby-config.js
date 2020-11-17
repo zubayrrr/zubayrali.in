@@ -85,12 +85,13 @@ module.exports = {
     {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
-        fields: [`title`, `description`, `body`],
+        fields: [`title`, `description`, `body`, `imageSources`],
         resolvers: {
           MarkdownRemark: {
             title: node => node.frontmatter.title,
             tags: node => node.frontmatter.tags,
             description: node => node.frontmatter.description,
+            imageSources: node => node.frontmatter.imageSources,
             slug: node => node.fields.slug,
             body: node => String(remark().processSync(node.rawMarkdownBody)),
             excerpt: node => {

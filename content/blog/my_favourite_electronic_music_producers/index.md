@@ -2,7 +2,8 @@
 title: My Favourite Elecronic Music Producers.
 date: "2020-10-03T22:12:03.284Z"
 tags: [favourite, music]
-description: "Image source: Lorn - Anvil"
+imageSoures: "Image source: Lorn - Anvil"
+description: "My favourite electronic music producers of all time."
 thumbnail: "./preview.jpg"
 ---
 

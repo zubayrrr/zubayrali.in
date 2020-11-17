@@ -2,7 +2,8 @@
 title: Get Your Own Decentralized Cloud Storage.
 date: "2020-11-11T22:12:03.284Z"
 tags: [productivity, cloud, syncthing, p2p, peerTopeer]
-description: "Image Source: syncthing.net "
+imageSources: "Image Source: syncthing.net"
+description: "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
 thumbnail: "./syncthing.jpg"
 ---
 

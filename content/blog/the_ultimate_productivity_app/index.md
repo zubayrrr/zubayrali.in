@@ -2,7 +2,8 @@
 title: The Ultimate Note Taking App.
 date: "2020-11-11T22:12:03.284Z"
 tags: [favourite, productivity, note_taking]
-description: "Image Source: Notion.so "
+imageSources: "Image Source: Notion.so"
+description: "Notion is an application that provides components such as databases, kanban boards, wikis, calendars and reminders. Users can connect these components to create their own systems for knowledge management, note taking, data management, project management, among others. These components and systems can be used individually, or in collaboration with others."
 thumbnail: "./notion.jpg"
 ---
 
