@@ -2,7 +2,7 @@
 title: Get Your Own Decentralized Cloud Storage.
 date: "2020-11-11T22:12:03.284Z"
 tags: [productivity, cloud, syncthing, p2p, peerTopeer]
-description: "Image Source: Notion.so "
+description: "Image Source: syncthing.net "
 thumbnail: "./syncthing.jpg"
 ---
 
