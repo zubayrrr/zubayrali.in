@@ -25,6 +25,11 @@
   pageRef = "tags"
   weight = 30
 
+[[main]]
+  name = "Wiki"
+  url = "https://wiki.zubayrali.in"
+  weight = 30
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -34,3 +39,7 @@
 #   name = "Tags"
 #   pageRef = "tags"
 #   weight = 10
+
+[[footer]]
+  name = "Privacy"
+  url = "https://external-link"
