@@ -41,5 +41,9 @@
 #   weight = 10
 
 [[footer]]
-  name = "Privacy"
-  url = "https://external-link"
+  name = "VocabJournal"
+  url = "https://lexicon.zubayrali.in"
+
+[[footer]]
+  name = "Digital Garden"
+  url = "https://wiki.zubayrali.in"

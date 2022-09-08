@@ -11,7 +11,7 @@
         {{ partial "article-meta.html" (dict "context" . "scope" "single") }}
       </div>
     </header>
-    <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+    <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
       {{ if and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in .TableOfContents "<ul") }}
         <div class="order-first px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
           <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
@@ -19,11 +19,11 @@
           </div>
         </div>
       {{ end }}
-      <div class="min-w-0 min-h-0 max-w-prose">
+      <div class="min-h-0 min-w-0 max-w-prose">
         {{ .Content | emojify }}
       </div>
     </section>
-    <footer class="pt-8 max-w-prose print:hidden">
+    <footer class="max-w-prose pt-8 print:hidden">
       {{ partial "author.html" . }}
       {{ partial "sharing-links.html" . }}
       {{ partial "article-pagination.html" . }}
@@ -41,4 +41,12 @@
       {{ end }}
     </footer>
   </article>
+
+  <!-- Comments by Cusdis -->
+  <!-- <h4>Comments:</h4>
+      <div id="cusdis_thread" data-host="https://cusdis.com"
+        data-app-id="See your dashbord on Cusdis"
+        data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
+        data-page-title="{{ .Title }}"></div>
+      <script async defer src="https://cusdis.com/js/cusdis.es.js"></script> -->
 {{ end }}
