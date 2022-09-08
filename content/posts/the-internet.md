@@ -1,7 +1,6 @@
 ---
 title: "Life on the Internet"
 date: "2022-04-27"
-toc: true
 description: "My opinion on social media/internet and how I choose to use it."
 tags: ["privacy", "rants", "psychology"]
 ---
