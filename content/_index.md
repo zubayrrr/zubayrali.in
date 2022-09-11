@@ -4,7 +4,7 @@ description: "This is a demo of the Congo theme for Hugo."
 ---
 
 {{< lead >}}
-My name is Zubayr Ali. Professionally, I am a DevOps Engineer from India :india: . <br /> At a personal level, I am incapable of summarizing myself in a few words. In this corner of the internet, I want to _chew the cud_ so as to ruminate on what I've learned, relearned, unlearned. This blog is my [not so] extended part my [digital garden](https://wiki.zubayrali.in).
+My name is Zubayr Ali. Professionally, I am a DevOps Engineer from India :india: . <br /> Personally though, I am incapable of summarizing myself in a few words. In this corner of the internet, I want to _chew the cud_ so as to ruminate on what I've learned, relearned, unlearned. This blog is my [not so] extended part my [digital garden](https://wiki.zubayrali.in).
 {{< /lead >}}
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
