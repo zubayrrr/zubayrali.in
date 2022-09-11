@@ -16,7 +16,7 @@ enableCodeCopy = true
 # robots = ""
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, custom
+  layout = "hamburger" # valid options: basic, hamburger, custom
 
 [footer]
   showCopyright = true
@@ -34,7 +34,7 @@ enableCodeCopy = true
   showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = true
-  showEdit = false
+  showEdit = true
    editURL = "https://github.com/zubayrrr/zubayrali.in"
   editAppendPath = true
   showHeadingAnchors = true

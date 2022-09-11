@@ -5,17 +5,17 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "zubayrali.in"
+title = "chew the cud"
 # logo = "img/logo.jpg"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "chew the cud - a blog to learn, relearn, unlearn."
+copyright = "**[Copyleft](https://en.wikipedia.org/wiki/Copyleft)** :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
     name = "Zubayr Ali"
   # image = "img/author.jpg"
-  # headline = "I'm only human"
+    headline = "I'm only human"
     bio = "DevOps Engineer"
     links = [
       { email = "mailto:zubayrali@pm.me" },

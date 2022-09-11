@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "3168e67dfd9579bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b685723f171ccf67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/knowledge-management.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b875537ac393675b",
+    "type": "split",
+    "children": [
+      {
+        "id": "463aac830b277f52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6879622e1442e7d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67f9e712e7917efb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10d682b654b2ec1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd416b3d2d8adf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142eaf78ae2870e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/knowledge-management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b685723f171ccf67",
+  "lastOpenFiles": [
+    "_index.md",
+    "posts/identity-underemployment.md",
+    "posts/the-internet.md",
+    "health/heart-rate-variability.md",
+    "mind/brain-waves-and-meditation.md",
+    "SUMMARY.md",
+    "life/1-improvement-system.md"
+  ]
+}

@@ -101,7 +101,7 @@ The standards of beauty, love, sex and lifestyle that social media/internet port
 
 > If something is free, you’re the product.
 
-— [Quote Investigator](https://quoteinvestigator.com/2017/07/16/product/)
+— variously attributed[^2] 
 
 YouTube now shows at least 2 ads before playing a video. IG shows 1 ad after every 2 stories(?). It’s weird how people tolerate being made to watch ads. You can’t use third party clients:
 
@@ -182,3 +182,5 @@ Thanks for reading!
 ![](https://res.cloudinary.com/zubayr/image/upload/v1662258890/blog/hhqj2ofw4mkahbtsvep8.png)
 
 _Touché_ my friend.
+
+[^2]: [In conclusion, this saying evolved over time. Richard Serra and Carlota Fay Schoolman crafted an interesting precursor in 1973. A strong match was written by Tom Johnson in 2001. An extended statement was written by Andrew Lewis in 2010.](https://quoteinvestigator.com/2017/07/16/product/)
