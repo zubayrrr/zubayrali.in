@@ -101,7 +101,7 @@ The standards of beauty, love, sex and lifestyle that social media/internet port
 
 > If something is free, you’re the product.
 
-— variously attributed[^2] 
+— variously attributed[^2]
 
 YouTube now shows at least 2 ads before playing a video. IG shows 1 ad after every 2 stories(?). It’s weird how people tolerate being made to watch ads. You can’t use third party clients:
 
@@ -111,7 +111,7 @@ YouTube now shows at least 2 ads before playing a video. IG shows 1 ad after eve
 
 These companies claim that they don’t allow third-party apps because of privacy risks, but it's usually bullshit because third-party apps come with adblockers and these companies lose money over them.
 
-You do one Google search about anything and ads for those products are shoved at you from all directions because they all of them sell your data for the most targeted advertising possible.
+You do one Google search about anything and ads for those products are shoved at you from all directions because all of them sell your data for the most targeted advertising possible.
 
 The ads might be useful for the discovery of the product, but most of the time, they’re modifying your behavior. Almost to the extent that they’re taking away your free will to make decisions on your own. The more ads you watch, the more money you’re likely to spend.
 
