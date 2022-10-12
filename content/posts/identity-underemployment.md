@@ -3,14 +3,13 @@ title: "On Identity Capital & Underemployment"
 date: "2022-09-03"
 description: "What is Identity Capital and why should one strive to pursue it and how does underemployment effects an individual?"
 tags: ["career", "discourse"]
-draft: true
 ---
 
-I understand passion as something you need to discover by actively putting in effort. Effort into experimenting with different things till you find that one thing that just clicks, or if nothing clicks, you should go with what you enjoy doing the most.
+I understand passion as something you need to discover by actively putting in effort. Effort into experimenting with different things till you find that one thing that just clicks, or if nothing clicks, you should go with what you’ve put most hours into and enjoy doing the most.
 
-Fresh out of high school, I had decided I didn’t want to get an engineering degree after learning the harrowing tales of engineering students in India. Instead, I wanted to provide myself with skills and rely on them to break into it. 
+Fresh out of high school, I had decided I didn’t want to get an engineering degree after learning the harrowing tales of engineering students in India. Instead, I wanted to provide myself with skills and rely on them to break into IT.
 
-My experiments with finding that “one” thing did end after a few years…until then I was just really trying to do the best I could with whatever guidance I got (none whatsoever).
+My experiments with finding that “one” thing ended after a few years of back & forth…until then I was just really trying to do the best I could with whatever guidance I got (none whatsoever).
 
 I really do think that it is a privilege to be able to “find” or build your passion, not something everybody is able to afford. But my days have led me to this sad truth that not enough people value passion or appreciate it, or spend the energy themselves to find it.
 
@@ -28,17 +27,17 @@ All of this to set the context for why I chose not to do a Masters overseas, whi
 
 [In a statement released on Thursday, the US Mission in India has said that it has issued a record-breaking 82,000 student visas to Indians in 2022 to date. Indian students have received more US student visas than any other country, including China.](https://indianexpress.com/article/education/study-abroad/indians-get-more-us-student-visas-than-any-other-country-in-2022-us-embassy-8138257/)
 
-Among these 82k people, I've known at least 10 people who flew to the USA this year...that isn't a very big data set (statistically speaking) for me to forge these opinions.
+Among these 82k people, I've known at least 10 people who flew to the USA this year...that isn't a very big data set (statistically speaking) for me to forge these opinions, but I’ll do it anyway.
 
-A lot of people that I know who have chosen to do a Masters, usually do little to no research for the program they choose. They completed their Bachelors and are simply unable to find appealing employment opportunities here, so they do the next best thing. A Masters somewhere overseas like Australia, UK, Canada, USA. Some take into account their shot at securing a PR (Permanent Resident), others look for what country has the best money-making policies as a student (like hours of work, $s per hour) etc.
+A lot of people that I know who have chosen to do a Masters, usually do little to no research in the program they choose. They completed their Bachelors and are simply unable to find appealing employment opportunities here, so they do the next best thing. A Masters somewhere overseas like Australia, UK, Canada, USA. Some take into account their shot at securing a PR (Permanent Resident), others look for what country has the best money-making policies for students (like hours of work, $s per hour) etc.
 
-If you want to start your process of flying overseas for your degree, you will approach a consultancy. Some of them do charge a fee for their services, which include, applying to universities, writing an SOP for you, coaxing you into doing your Masters at a particular university in a particular program(incentivized by universities), fake the funds in your bank account that you’re supposed to disclose during your visa filing etcetera, etcetera.
+To start your process of flying overseas for your Master’s degree, you will approach a consultancy. Some of them do charge a fee for their services, which include, applying to universities, writing your SOP for you, coaxing you into doing your Masters at a particular university in a particular program (incentivized by universities), fake the funds in your bank account that you’re supposed to disclose during your visa filing etcetera, etcetera.
 
 My consultancy advised me that I take a course at a reputed University (high fees) so I don’t get flagged by the visa authorities and that I can “switch” to a more affordable university after I land there.  I was also informed that I could make decent money working odd jobs to pay for the hefty college fees I was about to pay. Some take out loans, others are supported by their parents.
 
-I am not trying to take a shit on these consultancies, a million dollar businesses. They’re providing valuable services. But it does make me quite sus(picious) about the whole academic system. 
+I am not trying to take a shit on these consultancies, a million dollar businesses; they’re providing valuable services. Nor am I saying that people shouldn’t do it, if they can find better employment opportunities and living standards elsewhere, they should go for it.  But it does make me quite suspicious about the whole academic system.  All of it just seems too methodical.
 
-I’ve personally known guys who were passionate about pursuing something before they flew off for Masters. It landed them in blue collar (unskilled) jobs that made them decent money (money they’d make in India in a skilled profession). Naturally, they lost interest in that thing they were excited about. Now, their plan is to make as much money as possible before they’re deported (there are contingency plans to avoid this) or if they get lucky a PR is handed to them. I know this is totally fine, they can come back home to set up businesses or whatever.
+I’ve personally known guys who were passionate about pursuing something before they flew off for their Master’s. It landed them in blue collar (unskilled) jobs that made them decent money (money they’d make in India in a skilled profession). Naturally, they lost interest in that thing they were excited about. Now, their plan is to make as much money as possible doing those menial jobs before they’re deported (there are contingency plans to avoid this) or if they get lucky a PR is handed to them. I know this is totally fine, they can come back home to set up businesses or whatever.
 
 But what I don’t feel okay about is the loss of Identity Capital.
 
@@ -50,6 +49,8 @@ In her book, The Defining Decade; Meg Jay describes Identity Capital as:
 
 
 I hope I am not too bold in assuming that folks who follow this “path” that a thousand others are also on are hardly building discernible Identity Capital.
+
+
 
 
 It takes years for people to really figure out what they want to do in their lives, for the fortunate few who do identify where their passion lies, why should they be underemployed for 2 crucial years of their twenties doing something that was part of their ticket to the USA? I am not taking a shit on blue collar jobs, all kinds of labors deserve dignity.
@@ -70,7 +71,7 @@ I have a _few_ problems with these arguments (as a fresher).
 
 You absolutely have the right to want something as basic as work-life balance. It is nothing to be ashamed of and everything to strive for. The keyword is **balance**; when you’re not shortcoming in your work — why should you in your life? I am not trying to attack the “hustle culture”, it works for some people, and it's fine for them. But you should be allowed to enjoy the finer things in life afterwork. Like hitting the gym, reading a book, giving time to yourself are things nobody should be put down for wanting.
 
-Working overtime and doing graveyard shifts occasionally is absolutely fine. If your team needs you, you be there for them. You help meet deadlines because that's what good team players are.
+Working overtime and doing graveyard shifts occasionally is absolutely fine. If your team needs you, you be there for them. You help meet deadlines because that's what good team players do.
 
 But this thick skull couldn’t grasp that it is okay to have an ideal role that you want to work in — unless you’ve no idea what you’re getting yourself into, or if you don’t even know what you’re talking about — why can’t you decide what you want to work in? After all, you must’ve put a considerable amount of work and energy into learning the tools and acquiring the knowledge to do the job.
 
