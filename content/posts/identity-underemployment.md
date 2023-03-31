@@ -25,7 +25,7 @@ As a student myself, I’ve known many other students from various fields. The v
 
 All of this to set the context for why I chose not to do a Masters overseas, while it became  everybody else’s move right after graduating.
 
-## Master’s Degree? More like Indentured Servitude
+## Master’s Degree just for the sake of it
 
 [In a statement released on Thursday, the US Mission in India has said that it has issued a record-breaking 82,000 student visas to Indians in 2022 to date. Indian students have received more US student visas than any other country, including China.](https://indianexpress.com/article/education/study-abroad/indians-get-more-us-student-visas-than-any-other-country-in-2022-us-embassy-8138257/)
 
