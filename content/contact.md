@@ -3,4 +3,4 @@ title: "Contact"
 layout: "contact"
 ---
 
-Have a question you want answered? Is there something you would like me to write about on the blog? Just use the form below to reach out to me. If you are asking about a particular blog entry, please share the URL of the entry you are asking about.
+Got a burning question or an awesome topic for the blog? Just hit me up using the form below! If it's about a specific blog post, don't forget to drop the URL so I know which one you're talking about. Let's make some magic together!
