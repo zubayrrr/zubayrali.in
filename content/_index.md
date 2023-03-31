@@ -1,6 +1,6 @@
 ---
 title: "Hello World! :wave:"
-description: "Hey there! Welcome to my digital nook, where I fumble through the world of ideas, theories and occasional musings."
+description: "Hey there! Welcome to my digital nook, where I fumble through the world of ideas, theories and occasional musings. chew the cud - a blog to learn, relearn, unlearn."
 ---
 
 {{< lead >}}
