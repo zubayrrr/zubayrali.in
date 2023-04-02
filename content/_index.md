@@ -5,7 +5,7 @@ description: "Hey there! Welcome to my digital nook, where I fumble through the 
 
 {{< lead >}}
 My name is Ali. Professionally, I am a ServiceNow Developer :rocket: <br />
-Personally, though, I find it challenging to summarize myself in just a few words. In this corner of the internet, I want to "chew the cud" and ruminate on what I've learned, relearned, and unlearned. This blog serves as an [not so] extended part of my  [digital garden](https://zubayrrr.github.io) :bamboo: 
+Personally, though, I find it challenging to summarize myself in just a few words. In this corner of the internet, I want to _"chew the cud"_ so as to ruminate on what I've learned, relearned, and unlearned. This blog serves as an [not so] extended part of my  [digital garden](https://zubayrrr.github.io) :bamboo: 
 {{< /lead >}}
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
